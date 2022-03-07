@@ -1,0 +1,97 @@
+{
+    "family": [
+      {
+        "name": "hamed hasan",
+        "middle": null,
+        "age": 22,
+        "cgpa": 3.44,
+        "isRegistered": false,
+        "language": [
+          "bengali",
+          "english",
+          "arabic"
+        ],
+        "friends": [
+          {
+            "name": "alifa",
+            "age": 10
+          },
+          {
+            "name": "afifa",
+            "age": 8
+          }
+        ]
+      },
+      {
+        "name": "rifa",
+        "middle": null,
+        "age": 24,
+        "cgpa": 4.44,
+        "isRegistered": false,
+        "language": [
+          "bengali",
+          "hindi",
+          "english",
+          "arabic"
+        ],
+        "friends": [
+          {
+            "name": "sayed",
+            "age": 20
+          },
+          {
+            "name": "humaira",
+            "age": 22
+          }
+        ]
+      }
+    ],
+    "poribar": [
+        {
+          "name": "hamed hasan",
+          "middle": null,
+          "age": 22,
+          "cgpa": 3.44,
+          "isRegistered": true,
+          "language": [
+            "bengali",
+            "english",
+            "arabic"
+          ],
+          "friends": [
+            {
+              "name": "alifa",
+              "age": 10
+            },
+            {
+              "name": "afifa",
+              "age": 8
+            }
+          ]
+        },
+        {
+          "name": "rifa",
+          "middle": null,
+          "age": 24,
+          "cgpa": 4.44,
+          "isRegistered": false,
+          "language": [
+            "bengali",
+            "hindi",
+            "english",
+            "arabic"
+          ],
+          "friends": [
+            {
+              "name": "sayed",
+              "age": 20
+            },
+            {
+              "name": "humaira",
+              "age": 22
+            }
+          ]
+        }
+      ]
+
+  }
